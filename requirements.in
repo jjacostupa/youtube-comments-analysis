@@ -6,3 +6,5 @@ textblob                  # Análisis de sentimientos
 scikit-learn              # LDA para topic modeling
 matplotlib                # Visualización de datos
 langdetect                # Detectar el idioma
+transformers              # Análisis de sentimientos
+torch                     # Necesario para transformers

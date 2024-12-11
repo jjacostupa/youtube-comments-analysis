@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 def plot_sentiment_distribution(sentiments):
+    sentiments = [s['label'] for s in sentiments]
     sentiment_counts = {s: sentiments.count(s) for s in set(sentiments)}
     plt.bar(sentiment_counts.keys(), sentiment_counts.values())
     plt.title("Distribución de Sentimientos")
