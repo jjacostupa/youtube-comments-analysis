@@ -3,6 +3,9 @@ from langdetect import detect, LangDetectException
 from transformers import pipeline, AutoModelForTokenClassification, AutoTokenizer
 import pandas as pd
 from transformers import pipeline
+import logging
+logging.getLogger("transformers").setLevel(logging.ERROR)
+
 
 def group_entities(entities):
     if not entities:
