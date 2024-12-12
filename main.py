@@ -40,7 +40,7 @@ def main():
     entities, entity_distribution = extract_entities(comments)
 
     print("Distribución de Entidades Nombradas (NER):")
-    for entity, count in entity_distribution.items():
+    for entity, count in entity_distribution.most_common(10):
         print(f"{entity}: {count}")
 
     # 6. Visualización de Resultados
