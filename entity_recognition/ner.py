@@ -51,7 +51,7 @@ def extract_entities(comments):
     agg_entities = []
     all_entities = []
     entity_counter = Counter()
-    pattern = r"[^\x00-\x7F]"
+    MAX_TOKENS = 256
 
     nlp_multi = pipeline(
         "ner",
@@ -70,6 +70,7 @@ def extract_entities(comments):
     )
 
     for comment in comments:
+        comment = comment[:MAX_TOKENS]
         try:
             # Detectar el idioma del comentario
             lang = detect(comment)
