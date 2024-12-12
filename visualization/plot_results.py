@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import pandas as pd
+import json
 
 def plot_sentiment_distribution(sentiments):
     sentiments = [s['label'] for s in sentiments]
@@ -36,3 +37,28 @@ def save_results(comments, cleaned_comments, sentiments, topics, cleaned_status,
 
     print("Resultados guardados en 'results.txt'.")
 
+def save_results_to_json(comments, cleaned_comments, sentiments, topics, cleaned_status, detected_languages, entities):
+    # Convert the topics into a list of strings where each topic is a joined string
+    topics_str = ['; '.join(topic) for topic in topics]
+
+    # Structure the data for JSON output
+    data = {
+        "comments": [
+            {
+                "original_comment": comments[i],
+                "cleaned_comment": cleaned_comments[i],
+                "sentiment": sentiments[i],
+                "cleaned_status": cleaned_status[i],
+                "detected_language": detected_languages[i],
+                "entities": entities[i]
+            }
+            for i in range(len(comments))
+        ],
+        "generated_topics": topics_str
+    }
+
+    # Save the structured data to a JSON file
+    with open('results.json', 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+
+    print("Resultados guardados en 'results.json'.")

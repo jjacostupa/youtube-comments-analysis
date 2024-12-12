@@ -37,11 +37,11 @@ def main():
         print(f"Tema {idx + 1}: {', '.join(topic)}")
 
     # 5. Extracción de Entidades (NER)
-    entities, entity_distribution = extract_entities(cleaned_comments)
+    entities, entity_distribution = extract_entities(comments)
 
     print("Distribución de Entidades Nombradas (NER):")
-    for entity_type, count in entity_distribution.items():
-        print(f"{entity_type}: {count}")
+    for entity, count in entity_distribution.most_common(10):
+        print(f"{entity}: {count}")
 
     # 6. Visualización de Resultados
     plot_sentiment_distribution(sentiments)

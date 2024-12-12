@@ -81,9 +81,14 @@ def get_live_comments(live_chat_id, max_comments=100, sleep_time=4):
 
                 # Extraer mensajes y autores
                 for item in response['items']:
-                    comment = item['snippet']['textMessageDetails']['messageText']
-                    comments.append(comment)
-                    print(comment)
+                    if item['snippet']['type'] == 'textMessageEvent':
+                        comment = item['snippet']['textMessageDetails']['messageText']
+                        comments.append(comment)
+                        print(comment)
+                    elif item['snippet']['type'] == 'superChatEvent':
+                        comment = item['snippet']['superChatDetails']['userComment']
+                        comments.append(comment)
+                        print(comment)
 
                 # Verificar si hay más páginas
                 next_page_token = response.get("nextPageToken")
