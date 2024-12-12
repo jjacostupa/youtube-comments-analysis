@@ -73,7 +73,7 @@ def extract_entities(comments):
     )
 
     for comment in comments:
-        comment = comment[:MAX_TOKENS]
+        comment = comment[:MAX_TOKENS].title()
         try:
             # Detectar el idioma del comentario
             lang = detect(comment)
@@ -85,6 +85,9 @@ def extract_entities(comments):
             doc = nlp_es(comment)
         else:
             doc = nlp_multi(comment)
+
+        for j in range(len(doc)):
+            doc[j]['score'] = float(doc[j]['score'])
 
         agg_entities += group_entities([x for x in doc if len(x['word'])>2])
         all_entities.append(group_entities([x for x in doc if len(x['word'])>2]))

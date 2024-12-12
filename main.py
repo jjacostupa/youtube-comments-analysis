@@ -1,15 +1,16 @@
 import argparse
-from data_collection.youtube_api import get_comments, get_comments_from_video_or_live
+from data_collection.youtube_api import get_comments_from_video_or_live
 from data_processing.clean_data import preprocess
 from sentiment_analysis.sentiment import analyze_sentiment
 from topic_modeling.lda_model import perform_topic_modeling
 from entity_recognition.ner import extract_entities
-from visualization.plot_results import plot_sentiment_distribution, save_results
+from visualization.plot_results import plot_sentiment_distribution, save_results, save_results_to_json
 
 def main():
     parser = argparse.ArgumentParser(description="Análisis de comentarios de YouTube")
     parser.add_argument('--video_id', type=str, required=True, help="ID del video a analizar")
     parser.add_argument('--max_comments', type=int, default=100, help="Máximo de mensajes/comentarios a obtener")
+    parser.add_argument('--export-json', default=False, required=False, help="Export final results as json")
     args = parser.parse_args()
 
     # 1. Recolección de datos
@@ -41,13 +42,17 @@ def main():
 
     print("Distribución de Entidades Nombradas (NER):")
     for entity, count in entity_distribution.most_common(10):
-        print(f"{entity}: {count}")
+        if count > 1:
+            print(f"{entity}: {count}")
 
     # 6. Visualización de Resultados
     plot_sentiment_distribution(sentiments)
 
     # 7. Guardar Resultados
     save_results(comments, cleaned_comments, sentiments, topics, cleaned_status, detected_languages, entities)
+    if args.export_json:
+        save_results_to_json(comments, cleaned_comments, sentiments, topics, cleaned_status, detected_languages, entities, video_id=args.video_id)
+    
 
 if __name__ == '__main__':
     main()

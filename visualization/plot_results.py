@@ -37,7 +37,7 @@ def save_results(comments, cleaned_comments, sentiments, topics, cleaned_status,
 
     print("Resultados guardados en 'results.txt'.")
 
-def save_results_to_json(comments, cleaned_comments, sentiments, topics, cleaned_status, detected_languages, entities):
+def save_results_to_json(comments, cleaned_comments, sentiments, topics, cleaned_status, detected_languages, entities, video_id):
     # Convert the topics into a list of strings where each topic is a joined string
     topics_str = ['; '.join(topic) for topic in topics]
 
@@ -58,7 +58,7 @@ def save_results_to_json(comments, cleaned_comments, sentiments, topics, cleaned
     }
 
     # Save the structured data to a JSON file
-    with open('results.json', 'w', encoding='utf-8') as f:
+    with open(f'results/{video_id}.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
     print("Resultados guardados en 'results.json'.")

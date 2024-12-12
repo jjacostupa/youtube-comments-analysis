@@ -1,0 +1,2186 @@
+{
+    "comments": [
+        {
+            "original_comment": "QUE ABUSIVOS",
+            "cleaned_comment": "abusivos",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.7788615226745605
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.8759466409683228,
+                    "word": "Que",
+                    "start": 0,
+                    "end": 3
+                },
+                {
+                    "entity_group": "PER",
+                    "score": 0.6818111538887024,
+                    "word": "Abusivos",
+                    "start": 4,
+                    "end": 12
+                }
+            ]
+        },
+        {
+            "original_comment": "armany la pelea de yarrow y portalatino porque para votar truchos van juntitos",
+            "cleaned_comment": "armany pelea yarrow portalatino votar truchos van juntitos",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.6609372496604919
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "PER",
+                    "score": 0.9390112161636353,
+                    "word": "Armany",
+                    "start": 0,
+                    "end": 6
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.9305312037467957,
+                    "word": "La Pelea De Yarrow",
+                    "start": 7,
+                    "end": 25
+                },
+                {
+                    "entity_group": "PER",
+                    "score": 0.854533851146698,
+                    "word": "Portalatino Porque Para Votar Truchos Van Juntitos",
+                    "start": 28,
+                    "end": 78
+                }
+            ]
+        },
+        {
+            "original_comment": "NO HACEN NO MIERDA Y TODAVIA MAS QUIEREN",
+            "cleaned_comment": "hacen mierda todavia mas quieren",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.9109786152839661
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": []
+        },
+        {
+            "original_comment": "ahora gracias a sus leyes truchas tendremos a los mismos",
+            "cleaned_comment": "ahora gracias leyes truchas mismos",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.8807193636894226
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": []
+        },
+        {
+            "original_comment": "QUE DESGRACIA CCHMRE",
+            "cleaned_comment": "desgracia cchmre",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.7002055048942566
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "ca",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.4989275336265564,
+                    "word": "Que Desgracia Cchmre",
+                    "start": 0,
+                    "end": 20
+                }
+            ]
+        },
+        {
+            "original_comment": "estos señores periodistas le tienen miedo al fujiratismo",
+            "cleaned_comment": "señores periodistas miedo fujiratismo",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.907911479473114
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": []
+        },
+        {
+            "original_comment": "190 Congrepulpos más:face-purple-crying::face-purple-crying::face-purple-crying::face-purple-crying::face-purple-crying:",
+            "cleaned_comment": "190 congrepulpos más face purple crying face purple crying face purple crying face purple crying face purple crying",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.5762369632720947
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "en",
+            "entities": []
+        },
+        {
+            "original_comment": "con esas leyes más de lo mismo:face-purple-crying::face-purple-crying::face-purple-crying::face-purple-crying::face-purple-crying::face-purple-crying::face-purple-crying:",
+            "cleaned_comment": "con esas leyes más de lo mismo face purple crying face purple crying face purple crying face purple crying face purple crying face purple crying face purple crying",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.8691866397857666
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "en",
+            "entities": [
+                {
+                    "entity_group": "PER",
+                    "score": 0.9867979884147644,
+                    "word": "Con",
+                    "start": 0,
+                    "end": 3
+                },
+                {
+                    "entity_group": "PER",
+                    "score": 0.8936684727668762,
+                    "word": "sas Leyes Más De Lo Mismo",
+                    "start": 5,
+                    "end": 30
+                }
+            ]
+        },
+        {
+            "original_comment": "190 Congrepulpos nooooooo con esas leyes drl fujiratismo",
+            "cleaned_comment": "190 congrepulpos nooooooo leyes drl fujiratismo",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.8594884276390076
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.8720532059669495,
+                    "word": "Leyes Drl Fujiratismo",
+                    "start": 35,
+                    "end": 56
+                }
+            ]
+        },
+        {
+            "original_comment": "MAS.ROBOS",
+            "cleaned_comment": "mas robos",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.4819640815258026
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "lt",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.4696817994117737,
+                    "word": "s",
+                    "start": 2,
+                    "end": 3
+                },
+                {
+                    "entity_group": "PER",
+                    "score": 0.9810397028923035,
+                    "word": "Robos",
+                    "start": 4,
+                    "end": 9
+                }
+            ]
+        },
+        {
+            "original_comment": "más fujiratas nooooo",
+            "cleaned_comment": "fujiratas nooooo",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.7092193961143494
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "PER",
+                    "score": 0.9516294598579407,
+                    "word": "ás Fujiratas Nooooo",
+                    "start": 1,
+                    "end": 20
+                }
+            ]
+        },
+        {
+            "original_comment": "4000trabajadores en el congreso para 130 congresistas qué pagamos con nuestros impuestos",
+            "cleaned_comment": "4000trabajadores congreso 130 congresistas pagamos impuestos",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.5816132426261902
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": []
+        },
+        {
+            "original_comment": "4000trabajadores en el congreso para 130 congresistas qué pagamos con nuestros impuestos",
+            "cleaned_comment": "4000trabajadores congreso 130 congresistas pagamos impuestos",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.5816132426261902
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": []
+        },
+        {
+            "original_comment": "Para que queremos mas si no hacen nada",
+            "cleaned_comment": "queremos mas si hacen",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.6643676161766052
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.49307939410209656,
+                    "word": "Mas",
+                    "start": 18,
+                    "end": 21
+                }
+            ]
+        },
+        {
+            "original_comment": "uy si nos leen",
+            "cleaned_comment": "uy si leen",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.5891791582107544
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "fi",
+            "entities": [
+                {
+                    "entity_group": "PER",
+                    "score": 0.7110405564308167,
+                    "word": "y Si Nos Leen",
+                    "start": 1,
+                    "end": 14
+                }
+            ]
+        },
+        {
+            "original_comment": "para que más Congrepulpos para el lobby",
+            "cleaned_comment": "congrepulpos lobby",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.5783863663673401
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.8986340165138245,
+                    "word": "Que Más Congrepulpos",
+                    "start": 5,
+                    "end": 25
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.877977192401886,
+                    "word": "El Lobby",
+                    "start": 31,
+                    "end": 39
+                }
+            ]
+        },
+        {
+            "original_comment": "NO HACEN NI MIERDA",
+            "cleaned_comment": "hacen mierda",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.45328468084335327
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.38019129633903503,
+                    "word": "Ni Mierd",
+                    "start": 9,
+                    "end": 17
+                }
+            ]
+        },
+        {
+            "original_comment": "Esa ministra de la mujer esta pintada",
+            "cleaned_comment": "ministra mujer pintada",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.5138678550720215
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.7156751751899719,
+                    "word": "De La Mujer",
+                    "start": 13,
+                    "end": 24
+                }
+            ]
+        },
+        {
+            "original_comment": "la población estamos cansados. de los congresistas. porque en realidad no nos representan. sólo quieren ver sus beneficios",
+            "cleaned_comment": "población cansados congresistas realidad representan sólo quieren ver beneficios",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.9599712491035461
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": []
+        },
+        {
+            "original_comment": "hasta en la bodeguita de la esquina piden más requisitos para trabajar y me dices que en el congreso lo único que necesitas es ser peruano?",
+            "cleaned_comment": "bodeguita esquina piden requisitos trabajar dices congreso único necesitas ser peruano",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.8857110142707825
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.9945794343948364,
+                    "word": "Bodeguita De La Esquina",
+                    "start": 12,
+                    "end": 35
+                },
+                {
+                    "entity_group": "ORG",
+                    "score": 0.9843525290489197,
+                    "word": "Congreso",
+                    "start": 92,
+                    "end": 100
+                }
+            ]
+        },
+        {
+            "original_comment": "más delincuentes que se llenan la bolsillos... deberían bajarse los sueldos al mínimo, a ver cuántos postulan",
+            "cleaned_comment": "delincuentes llenan bolsillos deberían bajarse sueldos mínimo ver cuántos postulan",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.851963222026825
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.943374514579773,
+                    "word": "La Bolsillos",
+                    "start": 31,
+                    "end": 43
+                }
+            ]
+        },
+        {
+            "original_comment": "+500 punteros para bajarnos todo el congreso , alguien",
+            "cleaned_comment": "500 punteros bajarnos congreso alguien",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.584319531917572
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.7715539932250977,
+                    "word": "Congreso",
+                    "start": 36,
+                    "end": 44
+                }
+            ]
+        },
+        {
+            "original_comment": "Ay pobrecita :(",
+            "cleaned_comment": "ay pobrecita",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.6699619293212891
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.8157009482383728,
+                    "word": "Pobre",
+                    "start": 3,
+                    "end": 8
+                }
+            ]
+        },
+        {
+            "original_comment": "QUE SE LARGUE",
+            "cleaned_comment": "largue",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.5283961296081543
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.7512940168380737,
+                    "word": "Que Se Largue",
+                    "start": 0,
+                    "end": 13
+                }
+            ]
+        },
+        {
+            "original_comment": "Exacto",
+            "cleaned_comment": "exacto",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.5092589855194092
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "ca",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.5498005151748657,
+                    "word": "act",
+                    "start": 2,
+                    "end": 5
+                }
+            ]
+        },
+        {
+            "original_comment": "🥑🥑🥑esa ministra",
+            "cleaned_comment": "ministra",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.5062385201454163
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "pt",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.4011026918888092,
+                    "word": "Mini",
+                    "start": 7,
+                    "end": 11
+                }
+            ]
+        },
+        {
+            "original_comment": "por favor callese que ud no hace nada por las violencias que esta pasando el Perú. Pero le digo a ud y a todos los malos gobernantes Dios les juzgará en su debido tiempo",
+            "cleaned_comment": "favor callese ud hace violencias pasando perú digo ud malos gobernantes dios juzgará debido tiempo",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.9303323030471802
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "LOC",
+                    "score": 0.4623447358608246,
+                    "word": "Perú",
+                    "start": 77,
+                    "end": 81
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.6301819086074829,
+                    "word": "Dios",
+                    "start": 133,
+                    "end": 137
+                }
+            ]
+        },
+        {
+            "original_comment": "hasta en la bodeguita de la esquina piden más requisitos para trabajar y me dices que en el congreso lo único que necesitas es ser peruano?",
+            "cleaned_comment": "bodeguita esquina piden requisitos trabajar dices congreso único necesitas ser peruano",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.8857110142707825
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.9945794343948364,
+                    "word": "Bodeguita De La Esquina",
+                    "start": 12,
+                    "end": 35
+                },
+                {
+                    "entity_group": "ORG",
+                    "score": 0.9843525290489197,
+                    "word": "Congreso",
+                    "start": 92,
+                    "end": 100
+                }
+            ]
+        },
+        {
+            "original_comment": "la ministra de la mujer, no se reconoce ni ella misma como tal, Madre, Mujer. solo está de adorno . porque mejor no ponen en manifiesto en reducto sus sueldo y que se lo ganen por cada trabajo que hag",
+            "cleaned_comment": "ministra mujer reconoce misma tal madre mujer solo adorno mejor ponen manifiesto reducto sueldo ganen cada trabajo hag",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.635505735874176
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "PER",
+                    "score": 0.6246532797813416,
+                    "word": "La Mujer",
+                    "start": 15,
+                    "end": 23
+                }
+            ]
+        },
+        {
+            "original_comment": "hasta para trabajar en shalom quieren requisitos y en el congreso Solo ser peruano y tener padrinos , ala que linda se la llevan !!!!",
+            "cleaned_comment": "trabajar shalom quieren requisitos congreso solo ser peruano tener padrinos ala linda llevan",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.8378515243530273
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.9323393106460571,
+                    "word": "Shalom",
+                    "start": 23,
+                    "end": 29
+                },
+                {
+                    "entity_group": "ORG",
+                    "score": 0.8472750186920166,
+                    "word": "Congreso",
+                    "start": 57,
+                    "end": 65
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.5005800127983093,
+                    "word": "Linda",
+                    "start": 110,
+                    "end": 115
+                }
+            ]
+        },
+        {
+            "original_comment": "cada acto bueno que sea ganado, sino haces nada, y no se ve, que no se les pagué,. queremos ver trabajo y no solo especulaciones.",
+            "cleaned_comment": "cada acto bueno ganado sino haces ve pagué queremos ver trabajo solo especulaciones",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.6083887219429016
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": []
+        },
+        {
+            "original_comment": "ese colegio tiene que demolerse, y volver a construir",
+            "cleaned_comment": "colegio demolerse volver construir",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.4973551034927368
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.8679906725883484,
+                    "word": "se Colegio Tiene Que Demolerse",
+                    "start": 1,
+                    "end": 31
+                },
+                {
+                    "entity_group": "ORG",
+                    "score": 0.9793294072151184,
+                    "word": "Y Volver A Construir",
+                    "start": 33,
+                    "end": 53
+                }
+            ]
+        },
+        {
+            "original_comment": "hollalala",
+            "cleaned_comment": "hollalala",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.7113959193229675
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "fi",
+            "entities": [
+                {
+                    "entity_group": "PER",
+                    "score": 0.9973093271255493,
+                    "word": "llalala",
+                    "start": 2,
+                    "end": 9
+                }
+            ]
+        },
+        {
+            "original_comment": "que trabajo tan fuerte tiene Adolfo,pobre hombre",
+            "cleaned_comment": "trabajo tan fuerte adolfo pobre hombre",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.9701705574989319
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.7230543494224548,
+                    "word": "Trabajo Tan Fuerte",
+                    "start": 4,
+                    "end": 22
+                },
+                {
+                    "entity_group": "PER",
+                    "score": 0.8075976967811584,
+                    "word": "Adolfo",
+                    "start": 29,
+                    "end": 35
+                }
+            ]
+        },
+        {
+            "original_comment": "lo bueno que Dina Baluarte después de gozar con nuestro dinero va a pagar todo se paga en esta vida",
+            "cleaned_comment": "bueno dina baluarte después gozar dinero va pagar paga vida",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.7858081459999084
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.8411908149719238,
+                    "word": "Que Dina Baluarte",
+                    "start": 9,
+                    "end": 26
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.7747868299484253,
+                    "word": "zar Con Nuestro Dinero",
+                    "start": 40,
+                    "end": 62
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.7380172610282898,
+                    "word": "Esta Vida",
+                    "start": 90,
+                    "end": 99
+                }
+            ]
+        },
+        {
+            "original_comment": "mientras nosotros comemos con 10 soles ella goza del poder pero nada dura para siempre",
+            "cleaned_comment": "mientras comemos 10 soles goza poder dura siempre",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.7120499610900879
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": []
+        },
+        {
+            "original_comment": "más vagos pagados con nuestra plata",
+            "cleaned_comment": "vagos pagados plata",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.7564590573310852
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.8393608331680298,
+                    "word": "Vagos Pagados Con Nuestra Plata",
+                    "start": 4,
+                    "end": 35
+                }
+            ]
+        },
+        {
+            "original_comment": "15 000 mientras nosotros ganamos 1025",
+            "cleaned_comment": "15 000 mientras ganamos 1025",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.825670599937439
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "lt",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.500786304473877,
+                    "word": "Nosotros Gana",
+                    "start": 16,
+                    "end": 29
+                }
+            ]
+        },
+        {
+            "original_comment": "PORQ MIEDO A VIZCARRA???",
+            "cleaned_comment": "porq miedo vizcarra",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.5286813378334045
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.9526801705360413,
+                    "word": "rq Miedo A Vizcarra",
+                    "start": 2,
+                    "end": 21
+                }
+            ]
+        },
+        {
+            "original_comment": "dónde está el prófugo de-lincuente nicanor boluarte?",
+            "cleaned_comment": "dónde prófugo lincuente nicanor boluarte",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.5945219397544861
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.9252101182937622,
+                    "word": "El Prófugo De - Lincuente",
+                    "start": 11,
+                    "end": 34
+                },
+                {
+                    "entity_group": "PER",
+                    "score": 0.9967743158340454,
+                    "word": "Nicanor Boluarte",
+                    "start": 35,
+                    "end": 51
+                }
+            ]
+        },
+        {
+            "original_comment": "esté ministro no sabe ni dónde está parado, la pena de muerte no funciona esté gobierno no le importa el país,, ipocritas",
+            "cleaned_comment": "ministro sabe dónde parado pena muerte funciona gobierno importa país ipocritas",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.9406382441520691
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.9404715895652771,
+                    "word": "Pena De Muerte",
+                    "start": 47,
+                    "end": 61
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.7385709881782532,
+                    "word": "País",
+                    "start": 105,
+                    "end": 109
+                }
+            ]
+        },
+        {
+            "original_comment": "Está ministra, está dé chupa media dé Dina , Me da escalofríos al escuchar a esta señora allayera culpando a los medios,, felicitó a éstos señores periodistas,",
+            "cleaned_comment": "ministra dé chupa media dé dina da escalofríos escuchar señora allayera culpando medios felicitó éstos señores periodistas",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.9250107407569885
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.8314306139945984,
+                    "word": "Chupa Media",
+                    "start": 23,
+                    "end": 34
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.6381210684776306,
+                    "word": "Dina",
+                    "start": 38,
+                    "end": 42
+                }
+            ]
+        },
+        {
+            "original_comment": "AS",
+            "cleaned_comment": "",
+            "sentiment": {
+                "label": "POS",
+                "score": 0.49800029397010803
+            },
+            "cleaned_status": "Comentario eliminado (solo stopwords)",
+            "detected_language": "en",
+            "entities": []
+        },
+        {
+            "original_comment": "A DONDE HEMOS LLEGADO CCHMRE",
+            "cleaned_comment": "llegado cchmre",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.639168918132782
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "en",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.9283700585365295,
+                    "word": "A Donde Hemos Llegado Cchmre",
+                    "start": 0,
+                    "end": 28
+                }
+            ]
+        },
+        {
+            "original_comment": "X ESO CUANDO AGARREN A UNO DEBEMKS QUEMARLOS",
+            "cleaned_comment": "x agarren debemks quemarlos",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.7742041945457458
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.9450408816337585,
+                    "word": "X Eso Cuando Agarren A Uno Debemks Quemarlos",
+                    "start": 0,
+                    "end": 44
+                }
+            ]
+        },
+        {
+            "original_comment": "ASI QUIEREN TERMONARA",
+            "cleaned_comment": "asi quieren termonara",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.5149754881858826
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "PER",
+                    "score": 0.9845434427261353,
+                    "word": "i Quieren Termonara",
+                    "start": 2,
+                    "end": 21
+                }
+            ]
+        },
+        {
+            "original_comment": "muerto el perro muerto la rabia",
+            "cleaned_comment": "muerto perro muerto rabia",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.7390262484550476
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.8059328198432922,
+                    "word": "Muerto El Perro Muerto La Rabia",
+                    "start": 0,
+                    "end": 31
+                }
+            ]
+        },
+        {
+            "original_comment": "PONGAN LA OTRA PARTE",
+            "cleaned_comment": "pongan parte",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.5409729480743408
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.9680538773536682,
+                    "word": "ngan La Otra Parte",
+                    "start": 2,
+                    "end": 20
+                }
+            ]
+        },
+        {
+            "original_comment": "Que lamentable, todas estas personas, se insultan entre ellos, se critican, lo único que le interesa es el dinero, pero trabajar para la población, no les importa",
+            "cleaned_comment": "lamentable todas personas insultan critican único interesa dinero trabajar población importa",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.9665629863739014
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "tl",
+            "entities": []
+        },
+        {
+            "original_comment": "holas",
+            "cleaned_comment": "holas",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.7060241103172302
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "PER",
+                    "score": 0.9966739416122437,
+                    "word": "las",
+                    "start": 2,
+                    "end": 5
+                }
+            ]
+        },
+        {
+            "original_comment": "Que pasa con los peruanos que no se dan cuenta que aca esta metida la JUSTICIA CORRUPTA Y la policía que recauda millones",
+            "cleaned_comment": "pasa peruanos dan cuenta aca metida justicia corrupta policía recauda millones",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.8917957544326782
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "sk",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.7813904881477356,
+                    "word": "Justicia Corrup",
+                    "start": 70,
+                    "end": 85
+                },
+                {
+                    "entity_group": "ORG",
+                    "score": 0.9157978892326355,
+                    "word": "Policía",
+                    "start": 93,
+                    "end": 100
+                }
+            ]
+        },
+        {
+            "original_comment": "miren existe tecnología suficiente para detectar en una hora a los extorsionadores. pero claro es mucho dinero q perdería la policía y JUSTICIA Corrupta",
+            "cleaned_comment": "miren existe tecnología suficiente detectar hora extorsionadores claro dinero q perdería policía justicia corrupta",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.7191398739814758
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": []
+        },
+        {
+            "original_comment": ":face-red-droopy-eyes::eyes-purple-crying:",
+            "cleaned_comment": "face red droopy eyes eyes purple crying",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.4721379578113556
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "PER",
+                    "score": 0.5120752453804016,
+                    "word": "Eyes",
+                    "start": 23,
+                    "end": 27
+                }
+            ]
+        },
+        {
+            "original_comment": "canal deprimente ?",
+            "cleaned_comment": "canal deprimente",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.9475721716880798
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "en",
+            "entities": []
+        },
+        {
+            "original_comment": "ESTRÉS DEPRESIÓN TERROR Y MIEDO",
+            "cleaned_comment": "estrés depresión terror miedo",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.8796935081481934
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": []
+        },
+        {
+            "original_comment": "bien merecido",
+            "cleaned_comment": "bien merecido",
+            "sentiment": {
+                "label": "POS",
+                "score": 0.6604687571525574
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": []
+        },
+        {
+            "original_comment": "la pena de muerte ya existía en el PERÚ. debería ser para sicarios también y jueves corruptos",
+            "cleaned_comment": "pena muerte existía perú debería ser sicarios jueves corruptos",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.8349725008010864
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.8144503831863403,
+                    "word": "Pena De Muerte",
+                    "start": 3,
+                    "end": 17
+                },
+                {
+                    "entity_group": "LOC",
+                    "score": 0.9876878261566162,
+                    "word": "El Perú",
+                    "start": 32,
+                    "end": 39
+                }
+            ]
+        },
+        {
+            "original_comment": "la pena de muerte debería ser para sicarios jueces y policías corruptas",
+            "cleaned_comment": "pena muerte debería ser sicarios jueces policías corruptas",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.9191159605979919
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.9393635392189026,
+                    "word": "Pena De Muerte",
+                    "start": 3,
+                    "end": 17
+                }
+            ]
+        },
+        {
+            "original_comment": "LA PENA DE MUERTE EXISTE EN EL PERÚ, SE APLICA A TRAICIÓN A LA PATRIA MÁS NO SE APLICA DEBIDO AL PACTO DE SAN JOSE .",
+            "cleaned_comment": "pena muerte existe perú aplica traición patria aplica debido pacto san jose",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.5276109576225281
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.8974145650863647,
+                    "word": "Pena De Muerte",
+                    "start": 3,
+                    "end": 17
+                },
+                {
+                    "entity_group": "LOC",
+                    "score": 0.9138420820236206,
+                    "word": "El Perú",
+                    "start": 28,
+                    "end": 35
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.9920807480812073,
+                    "word": "Pacto De San Jose",
+                    "start": 97,
+                    "end": 114
+                }
+            ]
+        },
+        {
+            "original_comment": "por tonterías de poco interés para interpelar al ministro hay casos más urgente que le deben exigir pero como estos congresistas son otros corruptos",
+            "cleaned_comment": "tonterías interés interpelar ministro casos urgente deben exigir congresistas corruptos",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.5611094236373901
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": []
+        },
+        {
+            "original_comment": "AHORA SINO HAY FLAGRANCIA YA NO PUEDE LA POLICIA CAPTURAR A NADIES QUE MAL ...LOS DELINCUENTES HACIENDO LA LEY .",
+            "cleaned_comment": "ahora sino flagrancia puede policia capturar nadies mal delincuentes haciendo ley",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.6492064595222473
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.49082744121551514,
+                    "word": "Polic",
+                    "start": 41,
+                    "end": 46
+                }
+            ]
+        },
+        {
+            "original_comment": "la a pena de muerte eres para traidores a la patria ..PERO SOLO EN TIEMPOS DE GUERRA ....EL RESTO ES FLORO .",
+            "cleaned_comment": "pena muerte traidores patria solo tiempos guerra resto floro",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.6998471617698669
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.8724907636642456,
+                    "word": "Pena De Muerte",
+                    "start": 5,
+                    "end": 19
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.854276716709137,
+                    "word": "Patria",
+                    "start": 45,
+                    "end": 51
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.6776463389396667,
+                    "word": "s De Guerra",
+                    "start": 73,
+                    "end": 84
+                }
+            ]
+        },
+        {
+            "original_comment": "marcha de protesta, el pueblo rechaza a estas lacras, que se vayan todos estos corruptos, vergüenza dan estos oportunistas que llegaron al congreso.",
+            "cleaned_comment": "marcha protesta pueblo rechaza lacras vayan corruptos vergüenza dan oportunistas llegaron congreso",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.9506085515022278
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.9170528650283813,
+                    "word": "Congreso",
+                    "start": 139,
+                    "end": 147
+                }
+            ]
+        },
+        {
+            "original_comment": "TODO SERA MENTIRAS TODO PA Q DIGA QUE AN ENCONTRARON RAPIDO YA NO SE CREE NADA A ESTOS MENTIROSO POLICIAS ASESINOS",
+            "cleaned_comment": "sera mentiras pa q diga an encontraron rapido cree mentiroso policias asesinos",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.7646491527557373
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.7945838570594788,
+                    "word": "do Sera Mentiras Todo Pa Q Diga Que An Encontraron Rapido Ya No Se Cree Nada A Estos Mentiroso Policias Asesinos",
+                    "start": 2,
+                    "end": 114
+                }
+            ]
+        },
+        {
+            "original_comment": "ahora al extorsiónador tendrán atraparlo en flagrancia:face-orange-raised-eyebrow:de lo contrario se LIBERA de la cárcel , ya sabemos que los TOMBOs se les escapa las tortugas",
+            "cleaned_comment": "ahora extorsiónador atraparlo flagrancia face orange raised eyebrow contrario libera cárcel sabemos tombos escapa tortugas",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.5971879363059998
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "LOC",
+                    "score": 0.8270580768585205,
+                    "word": "Flagrancia",
+                    "start": 44,
+                    "end": 54
+                },
+                {
+                    "entity_group": "PER",
+                    "score": 0.9224140048027039,
+                    "word": "Fac",
+                    "start": 55,
+                    "end": 58
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.5648180246353149,
+                    "word": "Oran",
+                    "start": 60,
+                    "end": 64
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.4736515283584595,
+                    "word": "Raise",
+                    "start": 67,
+                    "end": 72
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.6230831146240234,
+                    "word": "Eyebrow",
+                    "start": 74,
+                    "end": 81
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.7935157418251038,
+                    "word": "Lo Contrario",
+                    "start": 85,
+                    "end": 97
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.44535547494888306,
+                    "word": "Tom",
+                    "start": 142,
+                    "end": 145
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.6539105772972107,
+                    "word": "Tortu",
+                    "start": 167,
+                    "end": 172
+                }
+            ]
+        },
+        {
+            "original_comment": "no solo los músicos estamos en peligro todos los peruanos de bien",
+            "cleaned_comment": "solo músicos peligro peruanos bien",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.4740990996360779
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": []
+        },
+        {
+            "original_comment": "MADITA DINA NO HACEE NADAA",
+            "cleaned_comment": "madita dina hacee nadaa",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.8768793344497681
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "PER",
+                    "score": 0.9919798374176025,
+                    "word": "Madita Dina No",
+                    "start": 0,
+                    "end": 14
+                },
+                {
+                    "entity_group": "ORG",
+                    "score": 0.5988566875457764,
+                    "word": "Hacee Na",
+                    "start": 15,
+                    "end": 23
+                }
+            ]
+        },
+        {
+            "original_comment": "MIENTRAS DINA NO AGA NADA ESTO VA ESTAR PEORR",
+            "cleaned_comment": "mientras dina aga va peorr",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.7930209636688232
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "so",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.9690400958061218,
+                    "word": "entras Dina No Aga Nada Esto V",
+                    "start": 2,
+                    "end": 32
+                },
+                {
+                    "entity_group": "ORG",
+                    "score": 0.9072868227958679,
+                    "word": "Estar Peorr",
+                    "start": 34,
+                    "end": 45
+                }
+            ]
+        },
+        {
+            "original_comment": "wazaa",
+            "cleaned_comment": "wazaa",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.5943388342857361
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.9422449469566345,
+                    "word": "azaa",
+                    "start": 1,
+                    "end": 5
+                }
+            ]
+        },
+        {
+            "original_comment": "hay revisar el archivo de las cámaras de seguridad por el delincuentes van al negocio para estudiar el robo yo tengo cámaras de seguridad que puedo guardar los vídeos tres mese contraté un detective",
+            "cleaned_comment": "revisar archivo cámaras seguridad delincuentes van negocio estudiar robo cámaras seguridad puedo guardar vídeos tres mese contraté detective",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.6981825232505798
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "sw",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.9503644108772278,
+                    "word": "Archivo De Las Cámaras De Seguridad",
+                    "start": 15,
+                    "end": 50
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.8237570524215698,
+                    "word": "Negocio",
+                    "start": 78,
+                    "end": 85
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.6140890717506409,
+                    "word": "Robo",
+                    "start": 103,
+                    "end": 107
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.9278701543807983,
+                    "word": "Tengo Cámaras De Seguridad",
+                    "start": 111,
+                    "end": 137
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.5894112586975098,
+                    "word": "Guardar",
+                    "start": 148,
+                    "end": 155
+                }
+            ]
+        },
+        {
+            "original_comment": "JAJAJAJA 😂🤣 PA ESO VO TAN POR CAS TI LLO?? ✏💩",
+            "cleaned_comment": "jajajaja pa vo tan cas llo",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.4696795344352722
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.8654853105545044,
+                    "word": "ajajaja",
+                    "start": 1,
+                    "end": 8
+                },
+                {
+                    "entity_group": "PER",
+                    "score": 0.34289905428886414,
+                    "word": "o",
+                    "start": 20,
+                    "end": 21
+                },
+                {
+                    "entity_group": "ORG",
+                    "score": 0.7085418105125427,
+                    "word": "Tan Por Cas Ti Llo",
+                    "start": 22,
+                    "end": 40
+                }
+            ]
+        },
+        {
+            "original_comment": "JAJAJAJA 😂🤣 PA ESO VO TAN POR CAS TI LLO?? ✏💩JAJAJAJA 😂🤣 PA ESO VO TAN POR CAS TI LLO?? ✏💩",
+            "cleaned_comment": "jajajaja pa vo tan cas llo jajajaja pa vo tan cas llo",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.6439600586891174
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "sl",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.7231820225715637,
+                    "word": "ajajaja",
+                    "start": 1,
+                    "end": 8
+                },
+                {
+                    "entity_group": "ORG",
+                    "score": 0.46682602167129517,
+                    "word": "Llo",
+                    "start": 37,
+                    "end": 40
+                },
+                {
+                    "entity_group": "ORG",
+                    "score": 0.4650776982307434,
+                    "word": "Llo",
+                    "start": 82,
+                    "end": 85
+                }
+            ]
+        },
+        {
+            "original_comment": "JAJAJAJA 😂🤣 PA ESO VO TAN POR CAS TI LLO?? ✏💩JAJAJAJA 😂🤣 PA ESO VO TAN POR CAS TI LLO?? ✏💩",
+            "cleaned_comment": "jajajaja pa vo tan cas llo jajajaja pa vo tan cas llo",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.6439600586891174
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "sl",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.7231820225715637,
+                    "word": "ajajaja",
+                    "start": 1,
+                    "end": 8
+                },
+                {
+                    "entity_group": "ORG",
+                    "score": 0.46682602167129517,
+                    "word": "Llo",
+                    "start": 37,
+                    "end": 40
+                },
+                {
+                    "entity_group": "ORG",
+                    "score": 0.4650776982307434,
+                    "word": "Llo",
+                    "start": 82,
+                    "end": 85
+                }
+            ]
+        },
+        {
+            "original_comment": "JAJAJAJA 😂🤣 PA ESO VO TAN POR CAS TI LLO?? ✏💩",
+            "cleaned_comment": "jajajaja pa vo tan cas llo",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.4696795344352722
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "sl",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.8654853105545044,
+                    "word": "ajajaja",
+                    "start": 1,
+                    "end": 8
+                },
+                {
+                    "entity_group": "PER",
+                    "score": 0.34289905428886414,
+                    "word": "o",
+                    "start": 20,
+                    "end": 21
+                },
+                {
+                    "entity_group": "ORG",
+                    "score": 0.7085418105125427,
+                    "word": "Tan Por Cas Ti Llo",
+                    "start": 22,
+                    "end": 40
+                }
+            ]
+        },
+        {
+            "original_comment": "los cámaras deben revisar en los archivos tres meses",
+            "cleaned_comment": "cámaras deben revisar archivos tres meses",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.6662265062332153
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "sl",
+            "entities": []
+        },
+        {
+            "original_comment": "MARY TERE BRASKY Y JESÚS ALZAMORA SON PROPIETARIOS DE LATINA TV , SE CONOCIERON EN LA DESAPARECIDA CPN RADIO QUE DIRIGÍA ALBERTO MATURANA , CUANDO SE DESPEDÍAN ELLA DECIA \" HABLARON PARA UDS. JESÚ",
+            "cleaned_comment": "mary tere brasky jesús alzamora propietarios latina tv conocieron desaparecida cpn radio dirigía alberto maturana despedían decia hablaron uds jesú",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.7568211555480957
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "PER",
+                    "score": 0.9987030029296875,
+                    "word": "Mary Tere Brasky",
+                    "start": 0,
+                    "end": 16
+                },
+                {
+                    "entity_group": "PER",
+                    "score": 0.999312698841095,
+                    "word": "Jesús Alzamora",
+                    "start": 19,
+                    "end": 33
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.8047721982002258,
+                    "word": "Latina Tv",
+                    "start": 54,
+                    "end": 63
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.8286527395248413,
+                    "word": "La Desaparecida",
+                    "start": 83,
+                    "end": 98
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.6459288597106934,
+                    "word": "n Radio",
+                    "start": 101,
+                    "end": 108
+                },
+                {
+                    "entity_group": "PER",
+                    "score": 0.9993340969085693,
+                    "word": "Alberto Maturana",
+                    "start": 121,
+                    "end": 137
+                }
+            ]
+        },
+        {
+            "original_comment": "ELLA DECÍA : \" HABLARON PARA UDS . JESÚS ALZAMORA \" Y ÉL RESPONDÍA \" Y MARY TERE BRASKY , CHAU , CHAU \" .ME LO GRABE POR LO PECULIAR CUANDO SE DESPEDÍAN AL FINAL DE SU PROGRAMA .",
+            "cleaned_comment": "decía hablaron uds jesús alzamora respondía mary tere brasky chau chau grabe peculiar despedían final programa",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.864630937576294
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.9020516276359558,
+                    "word": "Para Uds. Jesús Alzamora",
+                    "start": 24,
+                    "end": 49
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.660053551197052,
+                    "word": "Mary Tere",
+                    "start": 71,
+                    "end": 80
+                }
+            ]
+        },
+        {
+            "original_comment": "ES DECIR ESTE CONGRESO ESTA HACIENDO LEYES QUE PROTEGERAN MAS LA INSEGURIDAD ASI SE VA PERDIENDO LA JUSTICIA QUE NO EXISTE NO SE VE NI SE VERA LA DELINCUENCIA ESTA BIEN PROTEJIDA POR ESTE CONGRESO",
+            "cleaned_comment": "decir congreso haciendo leyes protegeran mas inseguridad asi va perdiendo justicia existe ve vera delincuencia bien protejida congreso",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.8586711883544922
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.7892650961875916,
+                    "word": "Inseguridad",
+                    "start": 65,
+                    "end": 76
+                }
+            ]
+        },
+        {
+            "original_comment": "PERO ESTÁ BIEN.. LOS CAS TI BU RRO SON RA TAS",
+            "cleaned_comment": "bien cas bu rro ra tas",
+            "sentiment": {
+                "label": "POS",
+                "score": 0.524308979511261
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.8064711093902588,
+                    "word": "Ti Bu R",
+                    "start": 25,
+                    "end": 32
+                }
+            ]
+        },
+        {
+            "original_comment": "es un ntido social y siendo ministro de educacion ya dijo lo que sentia ahora se hase el loco",
+            "cleaned_comment": "ntido social siendo ministro educacion dijo sentia ahora hase loco",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.5442406535148621
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.7011434435844421,
+                    "word": "De Educa",
+                    "start": 37,
+                    "end": 45
+                }
+            ]
+        },
+        {
+            "original_comment": "LOS CAS TI BU RROS SON RA TAS.. NO TIENE QE PEDIR PERDÓN",
+            "cleaned_comment": "cas bu rros ra tas qe pedir perdón",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.6523566842079163
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.6885691285133362,
+                    "word": "Ti Bu R",
+                    "start": 8,
+                    "end": 15
+                }
+            ]
+        },
+        {
+            "original_comment": "LOS CAS TI BU RROS SON RA TAS.. NO TIENE QE PEDIR PERDÓN",
+            "cleaned_comment": "cas bu rros ra tas qe pedir perdón",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.6523566842079163
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.6885691285133362,
+                    "word": "Ti Bu R",
+                    "start": 8,
+                    "end": 15
+                }
+            ]
+        },
+        {
+            "original_comment": "LOS CAS TI BU RROS SON RA TAS.. NO TIENE QE PEDIR PERDÓN",
+            "cleaned_comment": "cas bu rros ra tas qe pedir perdón",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.6523566842079163
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.6885691285133362,
+                    "word": "Ti Bu R",
+                    "start": 8,
+                    "end": 15
+                }
+            ]
+        },
+        {
+            "original_comment": "LOS CAS TI BU RROS SON RA TAS.. NO TIENE QE PEDIR PERDÓN",
+            "cleaned_comment": "cas bu rros ra tas qe pedir perdón",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.6523566842079163
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.6885691285133362,
+                    "word": "Ti Bu R",
+                    "start": 8,
+                    "end": 15
+                }
+            ]
+        },
+        {
+            "original_comment": "LOS CAS TI BU RROS SON RA TAS.. NO TIENE QE PEDIR PERDÓN",
+            "cleaned_comment": "cas bu rros ra tas qe pedir perdón",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.6523566842079163
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.6885691285133362,
+                    "word": "Ti Bu R",
+                    "start": 8,
+                    "end": 15
+                }
+            ]
+        },
+        {
+            "original_comment": "LOS CAS TI BU RROS SON RA TAS.. NO TIENE QE PEDIR PERDÓN",
+            "cleaned_comment": "cas bu rros ra tas qe pedir perdón",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.6523566842079163
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.6885691285133362,
+                    "word": "Ti Bu R",
+                    "start": 8,
+                    "end": 15
+                }
+            ]
+        },
+        {
+            "original_comment": "que lo destituyan es un mal ejemplo para el pais y los estudiantes no nos representea Que lo destituyan YA",
+            "cleaned_comment": "destituyan mal ejemplo pais estudiantes representea destituyan",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.9240983128547668
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": []
+        },
+        {
+            "original_comment": "se está refiriendo alos fujimoristas i dina balearte r a t ..",
+            "cleaned_comment": "refiriendo alos fujimoristas i dina balearte r t",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.5052269697189331
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "PER",
+                    "score": 0.9719805121421814,
+                    "word": "Dina Balearte",
+                    "start": 39,
+                    "end": 52
+                }
+            ]
+        },
+        {
+            "original_comment": "POE QUE PERUANOS TENEMOS QUE MANTENER MAS POLITICOS EN CONGRESO QUE NO HACEN NADA POR NOSOTROS LOS PEREUANOS SOLO SON JUGOSOS SUELDOIS",
+            "cleaned_comment": "poe peruanos mantener mas politicos congreso hacen pereuanos solo jugosos sueldois",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.9068463444709778
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.9797149300575256,
+                    "word": "Congreso",
+                    "start": 55,
+                    "end": 63
+                }
+            ]
+        },
+        {
+            "original_comment": "ESTOY DE ACUERDO CON EL MINISTRO QE LOS VOTANTES DE CAS TI LLO MERECEN PENA DE MU ER TE",
+            "cleaned_comment": "acuerdo ministro qe votantes cas llo merecen pena mu er",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.939231276512146
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "PER",
+                    "score": 0.4703320860862732,
+                    "word": "Ministro",
+                    "start": 24,
+                    "end": 32
+                },
+                {
+                    "entity_group": "LOC",
+                    "score": 0.8724371790885925,
+                    "word": "Cas Ti Llo",
+                    "start": 52,
+                    "end": 62
+                }
+            ]
+        },
+        {
+            "original_comment": "KEYKOMUCAS Y FUJIRATAS A LA HORKA",
+            "cleaned_comment": "keykomucas fujiratas horka",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.5883834958076477
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "score": 0.9989756345748901,
+                    "word": "Keykomucas Y Fujiratas A La Horka",
+                    "start": 0,
+                    "end": 33
+                }
+            ]
+        },
+        {
+            "original_comment": "A ÉSTE GRAN PERIODISTA FERNANDO EGUSQUIZA CHECHO IBARRA HACE DOS MESES LE DIJO \"\"\"\"\"\"HUEVON , YO NO LE PEGO A PERIODISTAS \" EN UN TONO RECONTRA AGRESIVO EN EL DOMINICAL DEPORTES QUE CONDUCE ALAN .",
+            "cleaned_comment": "éste gran periodista fernando egusquiza checho ibarra hace dos meses dijo huevon pego periodistas tono recontra agresivo dominical deportes conduce alan",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.9308360815048218
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "so",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.6101136803627014,
+                    "word": "Éste",
+                    "start": 2,
+                    "end": 6
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.495891273021698,
+                    "word": "Perio",
+                    "start": 12,
+                    "end": 17
+                },
+                {
+                    "entity_group": "PER",
+                    "score": 0.998017430305481,
+                    "word": "Fernando Egusqui",
+                    "start": 23,
+                    "end": 39
+                },
+                {
+                    "entity_group": "PER",
+                    "score": 0.9738578796386719,
+                    "word": "Checho Ibarra",
+                    "start": 42,
+                    "end": 55
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.8886117935180664,
+                    "word": "Huevon, Yo No Le Pego A Periodistas",
+                    "start": 85,
+                    "end": 121
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.9672728776931763,
+                    "word": "El Dominical Deportes Que Conduce",
+                    "start": 156,
+                    "end": 189
+                },
+                {
+                    "entity_group": "PER",
+                    "score": 0.7040154337882996,
+                    "word": "Alan",
+                    "start": 190,
+                    "end": 194
+                }
+            ]
+        },
+        {
+            "original_comment": "Hola Fernando pregunta la liga de volea tiene equipos que no sean de Lima???",
+            "cleaned_comment": "hola fernando pregunta liga volea equipos lima",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.8608888983726501
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "PER",
+                    "score": 0.9985806941986084,
+                    "word": "Fernando",
+                    "start": 5,
+                    "end": 13
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.9141206741333008,
+                    "word": "La Liga De Volea",
+                    "start": 23,
+                    "end": 39
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.8848634362220764,
+                    "word": "Lima",
+                    "start": 69,
+                    "end": 73
+                }
+            ]
+        },
+        {
+            "original_comment": "LOS CAS TI BU RROS SON RA TAS.. NO TIENE QE PEDIR PERDÓN",
+            "cleaned_comment": "cas bu rros ra tas qe pedir perdón",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.6523566842079163
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.6885691285133362,
+                    "word": "Ti Bu R",
+                    "start": 8,
+                    "end": 15
+                }
+            ]
+        },
+        {
+            "original_comment": "LOS CAS TI BU RROS SON RA TAS.. NO TIENE QE PEDIR PERDÓN",
+            "cleaned_comment": "cas bu rros ra tas qe pedir perdón",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.6523566842079163
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.6885691285133362,
+                    "word": "Ti Bu R",
+                    "start": 8,
+                    "end": 15
+                }
+            ]
+        },
+        {
+            "original_comment": "LOS CAS TI BU RROS SON RA TAS.. NO TIENE QE PEDIR PERDÓN",
+            "cleaned_comment": "cas bu rros ra tas qe pedir perdón",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.6523566842079163
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.6885691285133362,
+                    "word": "Ti Bu R",
+                    "start": 8,
+                    "end": 15
+                }
+            ]
+        },
+        {
+            "original_comment": "LOS CAS TI BU RROS SON RA TAS.. NO TIENE QE PEDIR PERDÓN",
+            "cleaned_comment": "cas bu rros ra tas qe pedir perdón",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.6523566842079163
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.6885691285133362,
+                    "word": "Ti Bu R",
+                    "start": 8,
+                    "end": 15
+                }
+            ]
+        },
+        {
+            "original_comment": "100 más influyentes y qien xuxa es",
+            "cleaned_comment": "100 influyentes qien xuxa",
+            "sentiment": {
+                "label": "NEU",
+                "score": 0.4971318542957306
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.8179411888122559,
+                    "word": "100 Más Influyentes",
+                    "start": 0,
+                    "end": 19
+                },
+                {
+                    "entity_group": "MISC",
+                    "score": 0.8767229318618774,
+                    "word": "Qien Xuxa Es",
+                    "start": 22,
+                    "end": 34
+                }
+            ]
+        },
+        {
+            "original_comment": "LOS CAS TI BU RROS SON RA TAS.. NO TIENE QE PEDIR PERDÓN",
+            "cleaned_comment": "cas bu rros ra tas qe pedir perdón",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.6523566842079163
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.6885691285133362,
+                    "word": "Ti Bu R",
+                    "start": 8,
+                    "end": 15
+                }
+            ]
+        },
+        {
+            "original_comment": "LOS CAS TI BU RROS SON RA TAS.. NO TIENE QE PEDIR PERDÓN",
+            "cleaned_comment": "cas bu rros ra tas qe pedir perdón",
+            "sentiment": {
+                "label": "NEG",
+                "score": 0.6523566842079163
+            },
+            "cleaned_status": "Comentario limpio",
+            "detected_language": "es",
+            "entities": [
+                {
+                    "entity_group": "MISC",
+                    "score": 0.6885691285133362,
+                    "word": "Ti Bu R",
+                    "start": 8,
+                    "end": 15
+                }
+            ]
+        }
+    ],
+    "generated_topics": [
+        "llo; pa; pedir; perdón; rros; ra; tas; bu; qe; cas",
+        "requisitos; peruano; pena; ahora; único; mas; trabajar; hacen; dina; ser",
+        "revisar; seguridad; más; congrepulpos; solo; mujer; cámaras; crying; purple; face",
+        "ver; meses; mientras; peruanos; asi; mas; bien; justicia; va; congreso",
+        "debido; ud; ministro; solo; corruptos; perú; muerte; congresistas; pena; congreso"
+    ]
+}
